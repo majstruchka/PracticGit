@@ -1,15 +1,13 @@
-
-
-
-
 header{
     display:flex;
 }
-
-
-
-
+footer{
+    display: block;
+}
 .foo{
     font-size: large;
     border: beige 1px solid;
+}
+.main{
+    background-color: aquamarine;
 }
